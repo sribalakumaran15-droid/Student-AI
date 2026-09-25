@@ -1,12 +1,1 @@
-.env
-__pycache__/
-*.pyc
-data/assistant.db
-uploads/*
-!uploads/.gitkeep
-backend/.env
-backend/*.db
-backend/uploads/*
-!backend/uploads/.gitkeep
-frontend/node_modules/
-frontend/dist/
+*
